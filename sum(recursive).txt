@@ -1,10 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 int sum(int a);
-/*
-Name:Burak ÇAKIROÐLU/170315015/Formal Education
-Name:Enes TÜRKMEN/170315025/Formal Education
-*/
+
 int main()
 {
     int number=0,number1=0,total=0,variable=0,x;
